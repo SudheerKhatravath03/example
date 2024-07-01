@@ -11,7 +11,7 @@ import datetime
 
 def gettime():
     """
-    A function to return the current time.
+    A function to return the current time to consider.
 
     Returns
     -------
