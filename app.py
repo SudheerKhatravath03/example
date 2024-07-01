@@ -12,6 +12,7 @@ import datetime
 def gettime():
     """
     A function to return the current time.
+    Section
 
     Returns
     -------
